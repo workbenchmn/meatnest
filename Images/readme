@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MeatNest Delivery</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="index.html">🛵 MeatNest</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <form class="d-flex ms-auto my-2 my-lg-0">
+        <input class="form-control me-2" type="search" placeholder="Search products…">
+        <button class="btn btn-outline-dark">Search</button>
+      </form>
+    </div>
+  </div>
+</header>
+
+
+
+<footer class="bg-light py-4 mt-5 border-top">
+  <div class="container text-center">
+    <p class="mb-1"><strong>MEATNEST</strong> - Your daily meat store. Fresh cuts delivered fast.</p>
+    <p class="text-muted small mb-0">© 2025 Workbench Traders. Built for you.</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
